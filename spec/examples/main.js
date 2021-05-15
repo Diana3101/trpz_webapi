@@ -1,4 +1,4 @@
-const token = "sl.Aw2nVdmhOz42aArl2vbMdd7dDwkQDQLjRw5byhd-tAfoCSv3INCGJMbKoZYJ3O3h-AycoMfLKalic4HrnUtDsVu_Ro9JXVU1dtDrLEmoCxbHEERA_XL3dSY0Rqfw1ZcgfSZd7iw";
+const token = "v8-Ygz0sKZsAAAAAAAAAAbSuYtKpRm1cB4buF81kYzi3YyvEQQlnde1Q6IgvkkdE";
 let reporters = require('jasmine-reporters');
 
 let TeamCityReporter = new reporters.TeamCityReporter ({
